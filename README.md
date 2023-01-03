@@ -16,6 +16,7 @@ Later on
 1) Open Terminal
 2) roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch 
 3) Open new Terminal
+
 4)Type this in the terminal you just opened rosrun catkin_ws 
 
 
