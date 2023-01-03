@@ -3,7 +3,8 @@ First step can follow the steps below to install the necessary simulation packag
 1) Go to the source folder of the workspace (cd catkin_ws/src)
 2) Copy the codes below into the terminal
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
-git clone https://github.com/ROBOTIS-GIT/turtlebot3.git -b melodic-devel   (melodic-noetic-kinetic Your choice!!!)
+git clone https://github.com/ROBOTIS-GIT/turtlebot3.git -b melodic-devel   
+(melodic-noetic-kinetic Your choice!!!)
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git -b melodic-devel
 3) Go back to the workspace (cd ~/catkin_ws) and compile (catkin_make)
 
